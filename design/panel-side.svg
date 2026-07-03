@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1000" viewBox="0 0 760 1000">
+  <defs>
+    <linearGradient id="kraftg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E2C79C"/><stop offset="0.55" stop-color="#D9BC8F"/><stop offset="1" stop-color="#C9A876"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <rect width="760" height="1000" fill="#1E4023"/>
+    <rect x="22" y="22" width="716" height="956" fill="none" stroke="#D4A93C" stroke-width="2.5" opacity="0.85"/>
+    <g transform="translate(280,110)">
+    <g transform="scale(1.0)">
+      <!-- egg -->
+      <path d="M100,8 C140,8 166,64 166,118 C166,168 138,198 100,198 C62,198 34,168 34,118 C34,64 60,8 100,8 Z"
+            fill="none" stroke="#F6EDDA" stroke-width="9"/>
+      <path d="M100,30 C130,30 150,74 150,116 C150,156 128,180 100,180 C72,180 50,156 50,116 C50,74 70,30 100,30 Z"
+            fill="#F6EDDA"/>
+      <path d="M78,60 C70,80 66,100 68,120" stroke="#F6EDDA" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85"/>
+      <!-- leaves at base -->
+      <path d="M100,196 C64,210 34,206 18,182 C48,172 82,176 100,196 Z" fill="#4E7A46" stroke="#D4A93C" stroke-width="3"/>
+      <path d="M100,196 C136,210 166,206 182,182 C152,172 118,176 100,196 Z" fill="#4E7A46" stroke="#D4A93C" stroke-width="3"/>
+      <path d="M100,244 C84,224 84,206 100,190 C116,206 116,224 100,244 Z" fill="#4E7A46" stroke="#D4A93C" stroke-width="3"/>
+      <path d="M100,238 L100,196 M100,214 L88,204 M100,214 L112,204" stroke="#D4A93C" stroke-width="2.5" fill="none"/>
+    </g></g>
+    <text x="380" y="480" font-family="Baskerville, Georgia, serif" font-weight="700" font-size="86" fill="#F6EDDA" text-anchor="middle">EggShell</text>
+    <text x="380" y="540" font-family="'Avenir Next', 'Helvetica Neue', sans-serif" font-weight="600" font-size="36" letter-spacing="10" fill="#D4A93C" text-anchor="middle">ORGANIC</text>
+    <path d="M180,600 L580,600" stroke="#D4A93C" stroke-width="2"/>
+    <text x="380" y="668" font-family="Baskerville, Georgia, serif" font-style="italic" font-size="35" fill="#F6EDDA" text-anchor="middle">Daily Protein,</text>
+    <text x="380" y="716" font-family="Baskerville, Georgia, serif" font-style="italic" font-size="35" fill="#F6EDDA" text-anchor="middle">The Natural Way.</text>
+    <text x="380" y="830" font-family="'Avenir Next', 'Helvetica Neue', sans-serif" font-weight="600" font-size="26" letter-spacing="2" fill="#F6EDDA" text-anchor="middle" opacity="0.9">M R ENTERPRISE</text>
+    <text x="380" y="866" font-family="'Avenir Next', 'Helvetica Neue', sans-serif" font-size="23" letter-spacing="1.5" fill="#F6EDDA" text-anchor="middle" opacity="0.75">(AGRO PRODUCTS)</text>
+  </g>
+<defs>
+    <linearGradient id="aoV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E2008" stop-opacity="0.16"/><stop offset="1" stop-color="#2E2008" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aoH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2E2008" stop-opacity="0.16"/><stop offset="1" stop-color="#2E2008" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aoVb" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2E2008" stop-opacity="0.16"/><stop offset="1" stop-color="#2E2008" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aoHr" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#2E2008" stop-opacity="0.16"/><stop offset="1" stop-color="#2E2008" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sheenV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF6E0" stop-opacity="0.10"/><stop offset="0.3" stop-color="#FFF6E0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="41" fill="url(#aoV)"/>
+  <rect y="959" width="760" height="41" fill="url(#aoVb)"/>
+  <rect width="41" height="1000" fill="url(#aoH)"/>
+  <rect x="719" width="41" height="1000" fill="url(#aoHr)"/>
+  <rect width="760" height="1000" fill="url(#sheenV)"/>
+</svg>
